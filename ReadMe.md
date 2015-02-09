@@ -1,7 +1,7 @@
 # DEMO FOR THE NODE BEGINNER BOOK
 > Coded by bkzguo
 
-This is a functional demo from the book "The Node Beginner Book">" by Manuel Kessling
+This is a functional demo from the book "The Node Beginner Book by Manuel Kessling
 
 ## KNOWN ISSUE
 1. Rename image error.  This issue occurs when your code is in a different partition from your computer's system tmp folder.  For example like me using Windows 7, the system tmp folder is in C:/ while my code was placed to E:/
